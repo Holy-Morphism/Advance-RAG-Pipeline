@@ -1,6 +1,4 @@
-Here is a markdown description of every process in your notebook:
 
----
 
 ## Advanced RAG Pipeline with Google's Gemini 1.5 Pro, Llama Index, and Chroma DB
 
